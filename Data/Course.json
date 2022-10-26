@@ -1,0 +1,106 @@
+[
+    {
+        "_id": "1",
+        "price": "$20",
+        "total_view": 488,
+        "title": "JavaScript is the Programming Language for the Web.",
+        "name": "JavaScript language",
+        "author": {
+            "name": "Brendan Eich ",
+            "img": "https://img.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg?w=1800&t=st=1666768726~exp=1666769326~hmac=06915a57c099eb89f99f061d79c0fc9da90d57db7811574b54cc5e0f6991b98e"
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+        "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles"
+    },
+    {
+        "_id": "2",
+        "price": "$20",
+        "total_view": 478,
+        "title": "Html is the Programming Language for the Web.",
+        "name": "HTML language",
+        "author": {
+            "name": "Timothy John ",
+            "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1800&t=st=1666768764~exp=1666769364~hmac=edff1ddc9567c70faca8e1de865e4f13d53c2eceab9a15680b30dc8e9055a4c4"
+        },
+        "image_url": "https://www.pngwing.com/en/free-png-vonbu",
+        "details": "HyperText Markup Language (HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet. The markup tells web browsers how to display a web page's words and images.   Each individual piece markup code (which would fall between  characters) is referred to as an element, though many people also refer to it as a tag. Some elements come in pairs that indicate when some display effect is to begin and when it is to end."
+    },
+    {
+        "_id": "3",
+        "rating": "5.0",
+        "total_view": 488,
+        "title": "React js is the Programming Language for the Web.",
+        "name": "React js",
+        "author": {
+            "name": "Jordan Walke",
+            "img": "https://img.freepik.com/free-photo/portrait-joyful-young-man-white-shirt_171337-17467.jpg?w=1800&t=st=1666768816~exp=1666769416~hmac=0a1244d1503164bc20a7a08f14dfd4367b72de8bc13b35c33d7db5fda22c16b7"
+        },
+        "image_url": "https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png",
+        "details": " React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable and easier to debug."
+    },
+    {
+        "_id": "4",
+        "price": "$20",
+        "total_view": 468,
+        "title": "React js is the Programming Language for the Web.",
+        "name": "Node Js",
+        "author": {
+            "name": "Ryan Dahl",
+            "img": "https://img.freepik.com/free-photo/close-up-young-successful-man-smiling-camera-standing-casual-outfit-against-blue-background_1258-66609.jpg?w=1800&t=st=1666768862~exp=1666769462~hmac=3d99a7934e885e32dd9a1118bb4b3284cb0c3e23762621ee84e751222f6d5e40"
+        },
+        "image_url": "https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png",
+        "details": "Node.js is similar in design to, and influenced by, systems like Ruby's Event Machine and Python's Twisted. Node.js takes the event model a bit further. It presents an event loop as a runtime construct instead of as a library. In other systems, there is always a blocking call to start the event-loop. Typically, behavior is defined through callbacks at the beginning of a script, and at the end a server is started through a blocking call like EventMachine::run(). In Node.js, there is no such start-the-event-loop call. Node.js simply enters the event loop after executing the input script. Node.js exits the event loop when there are no more callbacks to perform. This behavior is like browser JavaScript — the event loop is hidden from the user "
+    },
+    {
+        "_id": "5",
+        "price": "$20",
+        "total_view": 487,
+        "title": "Complete NEXT.js is the Programming Language for the Web.",
+        "name": "Complete NEXT.js",
+        "author": {
+            "name": "Guillermo ",
+            "img": "https://img.freepik.com/free-photo/confident-young-businessman-suit-standing-with-arms-folded_171337-18599.jpg?w=1800&t=st=1666768895~exp=1666769495~hmac=2c0d87454ca4accf94cc18cad5b6edc29c107f328e36a9accfb192a8fb473b7e"
+        },
+        "image_url": "https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png",
+        "details": " Enter Next.js, the React Framework. Next.js provides a solution to all of the above problems. But more importantly, it puts you and your team in the pit of success when building React applications.Next.js aims to have best-in-class developer experience and many built-in features, such asAn intuitive page-based routing system (with support for dynamic routes)Pre-rendering, both static generation (SSG) and server-side rendering (SSR) are supported on a per-page basisAutomatic code splitting for faster page loadsClient-side routing with optimized prefetchingBuilt-in CSS and Sass support, and support for any CSS-in-JS libraryDevelopment environment with Fast Refresh supportAPI routes to build API endpoints with Serverless FunctionsFully extendable"
+    },
+    {
+        "_id": "6",
+        "price": "$20",
+        "total_view": 488,
+        "title": "WordPress is the Programming Language for the Web.",
+        "name": "WordPress developer",
+        "author": {
+            "name": "Rauch ",
+            "img": "https://www.freepik.com/free-photo/young-smiling-man-bearded-businessman-pointing-with-two-finger-upward_7438804.htm#query=formal%20man&position=2&from_view=keyword"
+        },
+        "image_url": "https://www.mtctutorials.com/wp-content/uploads/2019/04/wordpress-png-icon.png",
+        "details": "First, let's create a new Next.js project with the create-next-app CLI tool. This tool is maintained by the creators of Next.js and will make the creation process easier for us. By running the command below, we will create a new Next.js project called nextjs-i18n-example in a folder with the same name."
+    },
+    {
+        "_id": "7",
+        "price": "$20",
+        "total_view": 408,
+        "title": "Bootstrap is the Programming Language for the Web.",
+        "name": "Bootstrap",
+        "author": {
+            "name": "Mark Otto",
+            "img": "https://www.freepik.com/premium-photo/smiling-woman-with-crossed-arms_953718.htm#query=formal%20man&position=8&from_view=keyword"
+        },
+        "image_url": "https://www.pngkit.com/png/full/954-9549328_bootstrap-featured-image-bootstrap-3-logo-png.png",
+        "details": " Bootstrap makes responsive web design a reality. It makes it possible for a web page or app to detect the visitor's screen size and orientation and automatically adapt the display accordingly. The mobile-first approach assumes smartphones, tablets and task-specific mobile apps are employees' primary tools for getting work done. Bootstrap addresses the requirements of those technologies in design and includes UI components, layouts, JavaScript tools and the implementation framework. The software is available precompiled or as source code."
+    },
+    {
+        "_id": "8",
+        "price": "$20",
+        "total_view": 408,
+        "title": " CSS is the Programming Language for the Web.",
+        "name": "CSS",
+        "author": {
+            "name": "Mark Otto",
+            "img": "https://www.freepik.com/premium-photo/smiling-woman-with-crossed-arms_953718.htm#query=formal%20man&position=8&from_view=keyword"
+        },
+        "image_url": "https://cdn-icons-png.flaticon.com/512/919/919826.png",
+        "details": "CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language."
+    }
+]
