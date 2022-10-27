@@ -14,7 +14,7 @@
     },
     {
         "_id": "2",
-        "price": "$20",
+        "price": "$15",
         "total_view": 478,
         "title": "Html is the Programming Language for the Web.",
         "name": "HTML language",
@@ -22,12 +22,12 @@
             "name": "Timothy John ",
             "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1800&t=st=1666768764~exp=1666769364~hmac=edff1ddc9567c70faca8e1de865e4f13d53c2eceab9a15680b30dc8e9055a4c4"
         },
-        "image_url": "https://www.pngwing.com/en/free-png-vonbu",
+        "image_url": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png",
         "details": "HyperText Markup Language (HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet. The markup tells web browsers how to display a web page's words and images.   Each individual piece markup code (which would fall between  characters) is referred to as an element, though many people also refer to it as a tag. Some elements come in pairs that indicate when some display effect is to begin and when it is to end."
     },
     {
         "_id": "3",
-        "rating": "5.0",
+        "price": "$25",
         "total_view": 488,
         "title": "React js is the Programming Language for the Web.",
         "name": "React js",
@@ -35,12 +35,12 @@
             "name": "Jordan Walke",
             "img": "https://img.freepik.com/free-photo/portrait-joyful-young-man-white-shirt_171337-17467.jpg?w=1800&t=st=1666768816~exp=1666769416~hmac=0a1244d1503164bc20a7a08f14dfd4367b72de8bc13b35c33d7db5fda22c16b7"
         },
-        "image_url": "https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png",
+        "image_url": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png",
         "details": " React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable and easier to debug."
     },
     {
         "_id": "4",
-        "price": "$20",
+        "price": "$10",
         "total_view": 468,
         "title": "React js is the Programming Language for the Web.",
         "name": "Node Js",
@@ -53,7 +53,7 @@
     },
     {
         "_id": "5",
-        "price": "$20",
+        "price": "$30",
         "total_view": 487,
         "title": "Complete NEXT.js is the Programming Language for the Web.",
         "name": "Complete NEXT.js",
@@ -66,7 +66,7 @@
     },
     {
         "_id": "6",
-        "price": "$20",
+        "price": "$40",
         "total_view": 488,
         "title": "WordPress is the Programming Language for the Web.",
         "name": "WordPress developer",
@@ -79,7 +79,7 @@
     },
     {
         "_id": "7",
-        "price": "$20",
+        "price": "$30",
         "total_view": 408,
         "title": "Bootstrap is the Programming Language for the Web.",
         "name": "Bootstrap",
@@ -92,7 +92,7 @@
     },
     {
         "_id": "8",
-        "price": "$20",
+        "price": "$23",
         "total_view": 408,
         "title": " CSS is the Programming Language for the Web.",
         "name": "CSS",
